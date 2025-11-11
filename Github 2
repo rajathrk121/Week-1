@@ -1,5 +1,0 @@
-x=[41,62,73,84,95,100]
-y=[]
-for i in range(len(x)-1,-1,-1):
-    y.append(x[i])
-print(y)
